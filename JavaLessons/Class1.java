@@ -6,6 +6,9 @@ public class Class1 {
 
 		
 		System.out.println("I am first class");
+		System.out.println("I am first class");
+		System.out.println("I am first class");
+		
 	}
 
 }
